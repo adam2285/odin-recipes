@@ -1,2 +1,2 @@
 # odin-recipes
-I am practicing my HTML knowledge. I have made some progress regarding Git Hub and cleared up spme blank spots in regards to cloning and moving repositories.
+I am practicing my HTML knowledge. I have made some progress regarding Git Hub and cleared up some blank spots in regards to cloning and moving repositories. I am also learning more about Git and committing/making changes. Slowly but surely things are making more sense.
